@@ -1,6 +1,6 @@
 <template>
-  <v-layout>
+  <v-app>
     <AppBar />
     <v-main> Insert test here. </v-main>
-  </v-layout>
+  </v-app>
 </template>

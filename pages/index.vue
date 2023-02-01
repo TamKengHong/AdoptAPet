@@ -1,9 +1,11 @@
 <template>
-  <v-layout>
+  <v-app>
     <AppBar />
     <v-main>
-      <HomeImages />
-      <HomeDescription />
+      <div color="gray-lighten-3">
+        <HomeImages />
+        <HomeDescription />
+      </div>
     </v-main>
-  </v-layout>
+  </v-app>
 </template>

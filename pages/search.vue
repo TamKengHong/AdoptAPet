@@ -1,8 +1,8 @@
 <template>
-  <v-layout>
+  <v-app>
     <AppBar />
     <v-main>
       <Search />
     </v-main>
-  </v-layout>
+  </v-app>
 </template>
