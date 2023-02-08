@@ -8,15 +8,20 @@
     rounded="xl"
     elevation="3"
   >
-    <v-card-text class="text-h5 text-center" color="black">
-      Home Description:
-      <br />
+    <p class="text-h5 text-center mx-5">
       <br />
       Welcome to 🐾Adopt-A-Pet, where you can adopt your very own pet here
       today!
+    </p>
+
+    <v-card-text class="text-h5">
+      Features:
       <br />
       <br />
-      Search for pets according to their breeds, and select those that you like!
+      <a to="/search"> 1. Search for pets according to their breeds. </a>
+      <br />
+      <br />
+      2. Select pets that you like!
     </v-card-text>
   </v-card>
 </template>

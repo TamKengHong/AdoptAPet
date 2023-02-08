@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar color="amber-lighten-2" :elevation="2">
+  <v-app-bar width="100%" color="amber-lighten-2" :elevation="2">
     <v-app-bar-nav-icon prepend-icon="md-paw" to="/" width="165">
       🐾Adopt-A-Pet
     </v-app-bar-nav-icon>

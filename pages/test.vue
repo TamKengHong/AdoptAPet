@@ -1,6 +1,3 @@
 <template>
-  <v-app>
-    <AppBar />
-    <v-main> Insert test here. </v-main>
-  </v-app>
+  <p>Insert test here.</p>
 </template>
