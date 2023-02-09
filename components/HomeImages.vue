@@ -21,12 +21,13 @@
     v-if="images.length == 1"
     height="370px"
     class="d-flex align-center justify-center"
+    style="background: #fffef6"
   >
     <v-progress-circular indeterminate class="mr-2" /> Loading cat images...
   </v-sheet>
   <v-carousel v-else height="360px" width="100%" class="mt-5">
     <v-carousel-item :key="group" v-for="group in images" eager>
-      <v-sheet class="d-flex justify-space-evenly">
+      <v-sheet class="d-flex justify-space-evenly" style="background: #fffef6">
         <img
           :key="single"
           v-for="single in group"

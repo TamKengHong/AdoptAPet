@@ -1,4 +1,6 @@
 <template>
-  <HomeImages />
-  <HomeDescription />
+  <div>
+    <HomeImages />
+    <HomeDescription />
+  </div>
 </template>

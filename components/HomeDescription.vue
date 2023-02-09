@@ -22,6 +22,9 @@
       <br />
       <br />
       2. Select pets that you like!
+      <br />
+      <br />
+      3. This page of random cats :)
     </v-card-text>
   </v-card>
 </template>

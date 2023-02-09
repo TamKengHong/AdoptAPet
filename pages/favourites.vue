@@ -1,3 +1,3 @@
 <template>
-  <Favourites />
+  <CardGrid />
 </template>
