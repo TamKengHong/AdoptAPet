@@ -1,5 +1,5 @@
 # Preview:
-Website link:https://adopt-a-pet-sand.vercel.app/
+Website link: https://adopt-a-pet-sand.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/59087730/217887478-16e49737-4d53-4d9a-b60b-18b7f4773524.png)
 
