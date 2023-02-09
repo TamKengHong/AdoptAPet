@@ -12,6 +12,7 @@
 - Frontend Framework: Vue 3 + Nuxt 3
 - Styling: Vuetify 3
 - Tests: Jest
+- Deployment: Vercel
 
 # To run:
 1. git clone this repo
