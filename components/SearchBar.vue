@@ -1,13 +1,10 @@
 <script setup>
-  const emit = defineEmits(["response"])
   const defaultChoice = { id: "", name: "All", description: "All cat breeds!" }
   const breeds = ref([defaultChoice])
   const selection = ref(defaultChoice)
   fetch("https://api.thecatapi.com/v1/breeds")
     .then((res) => res.json())
     .then((data) => (breeds.value = [defaultChoice, ...data]))
-
-  watch(selection, emit("response", selection.breedId))
 </script>
 
 <template>
