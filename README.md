@@ -31,6 +31,7 @@ Aesthetics (UI/UX) Design:
 - I wanted to make a clean and nice looking, user friendly website. 
 - Emphasis is on showing cat pictures to the user, as that is the most important thing the website should have.
 - Soft and friendly color palette used.
+
 Code Design:
 - Nuxt 3 helps quite a bit with keeping code structure clean and tidy, with pages and components folders.
 - Reusable components, easy to understand (hopefully!) code.
