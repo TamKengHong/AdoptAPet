@@ -1,42 +1,26 @@
-# Nuxt 3 Minimal Starter
+# Preview:
+![image](https://user-images.githubusercontent.com/59087730/217887478-16e49737-4d53-4d9a-b60b-18b7f4773524.png)
+![image](https://user-images.githubusercontent.com/59087730/217887028-492fe822-68d9-4e94-b964-db6f2e3fbf27.png)
+![image](https://user-images.githubusercontent.com/59087730/217887580-48c21339-a43b-471a-b4a6-a79a3f34e73b.png)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Features:
+1. Random cat images / gifs in the home screen.
+2. Ability to search for cat breeds, and giving information + pictures of cats for that breed.
+3. Favourites page to check your favourite kitties.
 
-## Setup
+# Tech Stack:
+Frontend Framework: Vue 3 + Nuxt 3
+Styling: Vuetify 3
+Tests: Jest
 
-Make sure to install the dependencies:
+# To run:
+1. git clone this repo
+2. npm install
+3. npm run dev
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+# Future Updates:
+1. Fully Implement breed search and favourites feature.
+2. Update to TypeScript.
+3. More testing.
+4. Add in Dog API as well.
+5. Mobile Improvements.
