@@ -18,6 +18,8 @@
 2. npm install
 3. npm run dev
 
+Or just visit the website: https://adopt-a-pet-sand.vercel.app/
+
 # Future Updates:
 1. Fully Implement breed search and favourites feature.
 2. Update to TypeScript.
