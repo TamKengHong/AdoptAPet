@@ -9,9 +9,9 @@
 3. Favourites page to check your favourite kitties.
 
 # Tech Stack:
-Frontend Framework: Vue 3 + Nuxt 3
-Styling: Vuetify 3
-Tests: Jest
+- Frontend Framework: Vue 3 + Nuxt 3
+- Styling: Vuetify 3
+- Tests: Jest
 
 # To run:
 1. git clone this repo
