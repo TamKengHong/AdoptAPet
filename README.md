@@ -1,7 +1,6 @@
 # Preview:
 ![image](https://user-images.githubusercontent.com/59087730/217887478-16e49737-4d53-4d9a-b60b-18b7f4773524.png)
 ![image](https://user-images.githubusercontent.com/59087730/217887028-492fe822-68d9-4e94-b964-db6f2e3fbf27.png)
-![image](https://user-images.githubusercontent.com/59087730/217887580-48c21339-a43b-471a-b4a6-a79a3f34e73b.png)
 
 # Features:
 1. Random cat images / gifs in the home screen.
