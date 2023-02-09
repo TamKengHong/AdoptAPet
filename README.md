@@ -5,6 +5,9 @@ Website link: https://adopt-a-pet-sand.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/59087730/217887028-492fe822-68d9-4e94-b964-db6f2e3fbf27.png)
 
+# About:
+This is a website to allow people to browse for breeds of pets they like, favourite them and perhaps adopt them. Uses TheCatAPI to get cat data.
+
 # Features:
 1. Random cat images / gifs in the home screen.
 2. Ability to search for cat breeds, and giving information + pictures of cats for that breed.
@@ -22,6 +25,15 @@ Website link: https://adopt-a-pet-sand.vercel.app/
 3. npm run dev
 
 Or just visit the website: https://adopt-a-pet-sand.vercel.app/
+
+# Design Considerations:
+Aesthetics (UI/UX) Design: 
+- I wanted to make a clean and nice looking, user friendly website. 
+- Emphasis is on showing cat pictures to the user, as that is the most important thing the website should have.
+- Soft and friendly color palette used.
+Code Design:
+- Nuxt 3 helps quite a bit with keeping code structure clean and tidy, with pages and components folders.
+- Reusable components, easy to understand (hopefully!) code.
 
 # Future Updates:
 1. Fully Implement breed search and favourites feature.
