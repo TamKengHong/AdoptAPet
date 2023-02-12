@@ -5,10 +5,12 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "test" : "jest"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
+    "jest": "^29.4.2",
     "nuxt": "^3.1.0"
   },
   "dependencies": {
