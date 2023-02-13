@@ -28,7 +28,7 @@ Or just visit the website: https://adopt-a-pet-sand.vercel.app/
 
 # Design Considerations:
 Aesthetics (UI/UX) Design: 
-- I wanted to make a clean and nice looking, user friendly website. 
+- I wanted to make a clean and nice looking, user friendly website, Vuetify is used as it follows Material Design considerations.
 - Emphasis is on showing cat pictures to the user, as that is the most important thing the website should have.
 - Soft and friendly color palette used.
 
